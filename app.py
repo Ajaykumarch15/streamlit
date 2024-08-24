@@ -55,7 +55,7 @@ st.markdown(
      """
     <style>
     .main {
-        background-image: url("images.jpg");
+        background-image: url("images.JPG");
         background-size: cover;
         background-position: center;
     }
