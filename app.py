@@ -54,7 +54,7 @@ tweet = st.text_area("Enter Tweet:")
 st.markdown(
      """
     <style>
-    .stApp {
+    .main {
         background-image: url("images.jpg");
         background-size: cover;
         background-position: center;
