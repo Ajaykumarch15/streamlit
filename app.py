@@ -56,7 +56,7 @@ st.markdown(
     <style>
     .main {
         
-        background-color: pink;
+        background-color: white;
         
     }
     </style>
