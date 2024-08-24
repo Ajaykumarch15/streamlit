@@ -52,13 +52,12 @@ st.write("Enter a tweet below and find out whether it's positive or negative!")
 # User input
 tweet = st.text_area("Enter Tweet:")
 st.markdown(
-    """
+     """
     <style>
-    .main {
-        
-        background-color: green;
-    
-        
+    .stApp {
+        background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwhy-twitter-sentiment-analysis-amah-paschal-chukwuemeka&psig=AOvVaw1WLB4vifiTE5R9vdPEiHb4&ust=1724577539052000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiu2pGmjYgDFQAAAAAdAAAAABAE");
+        background-size: cover;
+        background-position: center;
     }
     </style>
     """,
