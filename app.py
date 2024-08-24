@@ -55,7 +55,7 @@ st.markdown(
      """
     <style>
     .stApp {
-        background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwhy-twitter-sentiment-analysis-amah-paschal-chukwuemeka&psig=AOvVaw1WLB4vifiTE5R9vdPEiHb4&ust=1724577539052000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiu2pGmjYgDFQAAAAAdAAAAABAE");
+        background-image: url("images.jpg");
         background-size: cover;
         background-position: center;
     }
