@@ -51,6 +51,19 @@ st.write("Enter a tweet below and find out whether it's positive or negative!")
 
 # User input
 tweet = st.text_area("Enter Tweet:")
+st.markdown(
+    """
+    <style>
+    .main {
+        
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 if st.button("Analyze"):
     if tweet:
