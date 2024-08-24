@@ -56,9 +56,8 @@ st.markdown(
     <style>
     .main {
         
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
+        background-color: pink;
+        
     }
     </style>
     """,
